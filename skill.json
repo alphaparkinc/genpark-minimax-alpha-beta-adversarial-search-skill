@@ -1,0 +1,17 @@
+{
+  "name": "genpark-minimax-alpha-beta-adversarial-search-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Minimax Adversarial Decision Search Engine with Alpha-Beta Pruning",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "game-theory",
+    "minimax",
+    "alpha-beta-pruning",
+    "adversarial-search"
+  ]
+}
